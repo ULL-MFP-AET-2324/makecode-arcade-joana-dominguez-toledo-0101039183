@@ -6,7 +6,7 @@
 
 * Su organización:https://github.com/orgs/ull-mfp-aet-2324-alu0101039183/repositories
 * Classroom:https://classroom.github.com/classrooms/149103963-ull-mfp-aet-2324-alu0101039183
-* La asignación creada: 
+* La asignación creada: https://classroom.github.com/classrooms/149103963-ull-mfp-aet-2324-alu0101039183/assignments/makecode-arcade-joana
 
 
 ## Assignment
